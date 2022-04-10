@@ -1,2 +1,2 @@
-tokenZone=abcd
-tokenSourceApplication=xyz
+tokenization.tokenZone=abcd
+tokenization.tokenSourceApplication=xyz
